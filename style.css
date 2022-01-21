@@ -1,0 +1,12 @@
+.card {
+    margin-top: 60px;
+    background-color:bisque;
+    }
+
+.container-fluid {
+    flex: center;
+    background-color: red;
+    height: 45px;
+
+
+}
